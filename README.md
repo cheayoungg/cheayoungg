@@ -1,10 +1,6 @@
-# 🚀 Cheayoung's Hub
+# Cheayoung's Hub
 
-안녕하세요 🙂  
-현재 공부중인 백엔드 주니어 개발자입니다.  
-
-데이터 흐름과 시스템 구조를 고민하며  
-문제를 해결하는 개발자를 지향합니다.
+Spring boot Backend 개발자 입니다 :)
 
 ---
 
@@ -13,7 +9,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack 
 
 ### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,15 +34,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 
----
-
-## 🧠 Problem Solving
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheayoung)](https://solved.ac/cheayoung)
 
 ---
 
-## 🚀 About Me
-- 문제를 구조적으로 해결하는 개발자  
-- 병목을 발견하면 끝까지 파고드는 집요함  
-- 배우고 → 적용하고 → 공유하는 성장 사이클 지향  
+##  About Me
