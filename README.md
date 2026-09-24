@@ -1,6 +1,8 @@
 # Cheayoung's Hub
 
-Spring boot Backend 개발자 입니다. 지식을 나누고 협업을 통해 시너지를 얻습니다
+Spring boot Backend 개발자 입니다.
+좋아하는 개발을 잘하는 일로 만들기 위해 공부합니다.
+" 일단 시작하기 "
 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4eea1a0d-ce51-4f4e-a084-563a892c3cb7" />
 
