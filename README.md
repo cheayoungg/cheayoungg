@@ -43,7 +43,11 @@ Spring boot Backend 개발자 입니다.
 
 
 ---
+##  Blog
+![Velog](https://velog.io/@mlearnmdev/posts)
 
+
+---
 ##  About Me
 - IT융합공학부 전공으로 CS 기초와 C,Python,Java 등 다양한 언어의 기반을 다졌습니다.
 - 2번의 부트캠프에서 Spring 기반의 백엔드 기획, 설계, 구현 , 배포까지 팀 프로젝트 경험이 있습니다.
