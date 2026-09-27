@@ -44,7 +44,7 @@ Spring boot Backend 개발자 입니다.
 
 ---
 ##  Blog
-![Velog](https://velog.io/@mlearnmdev/posts)
+![Blog](https://velog.io/@mlearnmdev/posts)
 
 
 ---
