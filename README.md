@@ -1,14 +1,5 @@
 # Cheayoung's Hub
 
-Spring boot Backend 개발자 입니다. 
-<br/>
-좋아하는 개발을 잘하는 일로 만들기 위해 공부합니다.
-<br/>
-" 일단 시작하기 "
-
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4eea1a0d-ce51-4f4e-a084-563a892c3cb7" />
-
-
 ---
 
 ## 📫 Contact
@@ -47,9 +38,3 @@ Spring boot Backend 개발자 입니다.
 ![Blog](https://velog.io/@mlearnmdev/posts)
 
 
----
-##  About Me
-- IT융합공학부 전공으로 CS 기초와 C,Python,Java 등 다양한 언어의 기반을 다졌습니다.
-- 2번의 부트캠프에서 Spring 기반의 백엔드 기획, 설계, 구현 , 배포까지 팀 프로젝트 경험이 있습니다.
-- MSA, Kafa, Outbox, CI/CD, AWS 등 기술에 대한 이해도와 함께 프로젝트에 적용하는 역량을 가지고 있습니다.
-- 현재도 실생활에서 자동화가 필요한 부분을 찾으며 취미로 개발을 진행하고 있습니다.
